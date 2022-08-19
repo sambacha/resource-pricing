@@ -1,0 +1,4 @@
+# -*- mode: gitattributes; -*-
+VERSION export-subst
+*.sh text eol=lf
+justfile linguist-language=Make
